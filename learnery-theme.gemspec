@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["brigitte.jellinek@fh-salzburg.ac.at"]
   spec.description   = %q{blank theme for learnery}
   spec.summary       = %q{use this if you don't need your own theme}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/learnery/learnery-theme"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
