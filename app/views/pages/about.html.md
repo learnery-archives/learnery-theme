@@ -8,7 +8,7 @@ and deploy the app to heroku in a few simple steps.
 
 ### This Site
 
-Look at the URL of this site: http://learnery.herokuapp.com/ is it the official demo
+Look at the URL of this site: http://learnery-staging.herokuapp.com/ is it the official demo
 site of Learnery.
 
 Do you see a differnt URL?  Then this is some 
